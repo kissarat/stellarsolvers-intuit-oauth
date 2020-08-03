@@ -21,5 +21,13 @@
     "typescript": "3.8.3"
   },
   "author": "Taras Labiak <t.labiak@stellarsolvers.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kissarat/stellarsolvers-intuit-oauth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kissarat/stellarsolvers-intuit-oauth/issues"
+  },
+  "homepage": "https://github.com/kissarat/stellarsolvers-intuit-oauth#readme"
 }
