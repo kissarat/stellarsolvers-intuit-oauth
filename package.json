@@ -1,0 +1,25 @@
+{
+  "name": "stellarsolvers-intuit-oauth",
+  "version": "0.0.1",
+  "description": "TypeScript types definition for intuit-oauth package",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "billing",
+    "intuit",
+    "oauth",
+    "quickbooks",
+    "typescript"
+  ],
+  "dependencies": {
+    "intuit-oauth": "^3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "author": "Taras Labiak <t.labiak@stellarsolvers.com>",
+  "license": "ISC"
+}
